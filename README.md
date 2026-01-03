@@ -1,20 +1,24 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Lumina: Sacred Reflections
 
-# Run and deploy your AI Studio app
+Lumina is a spiritual growth companion designed to provide a digital sanctuary for daily contemplation. It delivers curated scriptures, AI-powered reflection insights, and an interactive journaling experience, all wrapped in a reverent "illuminated manuscript" aesthetic.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/drive/17HlaLgK9upgO5YLOdGXIfZ5MiyCG0Wr2
+- **Daily Scripture Feed**: Receive a fresh, inspiring verse every day chosen for spiritual depth and resonance.
+- **AI-Guided Reflections**: Utilizing the power of Google's Gemini AI to generate deep, contemplative insights and personalized journaling prompts for every verse.
+- **Sacred Journal**: A private space to record your prayers, thoughts, and reflections on your spiritual journey.
+- **Illuminated Aesthetic**: A high-end UI design inspired by ancient manuscripts, featuring parchment textures, gold gradients, and classic typography.
+- **Favorites Library**: Save the verses that speak most directly to your heart for future meditation.
+- **Daily Reminders**: Integrated notification system to help you maintain a consistent spiritual practice.
 
-## Run Locally
+## Built With
 
-**Prerequisites:**  Node.js
+- **React** - Modern UI framework.
+- **Tailwind CSS** - For beautiful, responsive styling.
+- **Google Gemini API** - Powering the spiritual reflections and prompt generation.
+- **Lucide React** - Elegant iconography.
+- **Google Fonts** - Featuring *Cinzel Decorative*, *Cormorant Garamond*, and *Great Vibes*.
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+**Built by Smartnaka**
